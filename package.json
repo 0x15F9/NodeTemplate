@@ -1,0 +1,23 @@
+{
+  "name": "nodetemplate",
+  "version": "1.0.0",
+  "description": "Template for NodeExpress Backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Isfaaq/NodeTemplate.git"
+  },
+  "author": "Isfaaq",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Isfaaq/NodeTemplate/issues"
+  },
+  "homepage": "https://github.com/Isfaaq/NodeTemplate#readme",
+  "dependencies": {
+    "dotenv": "^6.2.0",
+    "express": "^4.16.4"
+  }
+}
